@@ -53,4 +53,7 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+get 'event-registration' => 'event_registration#index'
+get 'event' => 'event#index'
 end
