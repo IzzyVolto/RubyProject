@@ -1,0 +1,26 @@
+body {
+	background: GhostWhite;
+	color: CadetBlue;
+}
+
+a:link {
+	color: CadetBlue;
+	text-decoration: underline;
+
+}
+
+a:visited {
+	color: CadetBlue;
+}
+
+header#header_content {
+	margin: 0;
+	padding: 20px;
+	background: CadetBlue;
+	color: white;
+}
+
+main#main_content {
+	padding-left: 20px;
+	padding-right: 20px;
+}
